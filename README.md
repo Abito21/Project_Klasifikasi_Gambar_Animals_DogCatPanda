@@ -7,7 +7,7 @@ Repository ini berisikan projek klasifikasi gambar menggunakan dataset animals d
 1. Clone repository ke komputer lokal menggunakan perintah dibawah ini:
 
    ```shell
-   git clone https://github.com/Abito21/Project_Klasifikasi_Gambar_Animals_DogCatPanda.git
+   [git clone https://github.com/Abito21/Project_Klasifikasi_Gambar_Animals_DogCatPanda.git](https://github.com/Abito21/Project_Klasifikasi_Gambar_Animals_DogCatPanda.git)
    ```
 
 2. Pastikan memiliki environment Python yang sesuai dan library yang diperlukan. Perintah dibawah dapat digunakan untuk melakukan instalasi library yang dibutuhkan :
